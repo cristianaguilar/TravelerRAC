@@ -39,7 +39,10 @@
             </div>
         </div>
         <div class="main">
-            <asp:ContentPlaceHolder ID="MainContent" runat="server"/>
+            <asp:ContentPlaceHolder ID="MainContent" runat="server">
+                <p>
+                    site 222222222222222222</p>
+            </asp:ContentPlaceHolder>
         </div>
         <div class="clear">
         </div>
