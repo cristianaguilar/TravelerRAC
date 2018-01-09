@@ -5,8 +5,9 @@
 </asp:Content>
 <asp:Content ID="BodyContent" runat="server" ContentPlaceHolderID="MainContent">
     <h2>
-        holaaaaaaaaaaaaaaaaaa</h2>
+        holaaaaaaaaaaaaaaaaaachaoooooooooooooooooooooo</h2>
     <p>
-        aqui escribimos contenido
-    </p>
+        holanda haciendo pruenba</p>
+<p>
+        sdvgrtytyyrnrn</p>
 </asp:Content>

@@ -8,10 +8,7 @@
         ASP.NET
     </h2>
     <p>
-        Para obtener más información acerca de ASP.NET, visite <a href="http://www.asp.net" title="Sitio web de ASP.NET">www.asp.net</a>.
-    </p>
+        www.xxx.cl</p>
     <p>
-        También puede encontrar <a href="http://go.microsoft.com/fwlink/?LinkID=152368"
-            title="Documentación de ASP.NET en MSDN">documentación sobre ASP.NET en MSDN</a>.
-    </p>
+        gabriel duval cristian alex</p>
 </asp:Content>
